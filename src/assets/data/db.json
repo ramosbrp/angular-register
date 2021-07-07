@@ -1,0 +1,22 @@
+{
+  "usuario": [
+    {
+      "nome": "adasd",
+      "fone": "1212",
+      "uf": "rj",
+      "id": 1
+    },
+    {
+      "nome": "adas",
+      "fone": "1212",
+      "uf": "sp",
+      "id": 2
+    },
+    {
+      "nome": "3adsd",
+      "fone": "33434",
+      "uf": "rs",
+      "id": 3
+    }
+  ]
+}
