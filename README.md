@@ -4,7 +4,7 @@
 
 ![Captura de tela de 2021-07-21 14-46-09](https://user-images.githubusercontent.com/61557867/126537747-fc18e243-ddb7-4e43-a627-6b9565837655.png)
 
-![Captura de tela de 2021-07-21 14-46-25](https://user-images.githubusercontent.com/61557867/126535982-58d8c14a-0818-416d-a721-8e85648a9ab9.png)
+![Captura de tela de 2021-07-21 14-46-25](https://user-images.githubusercontent.com/61557867/126538027-734c857e-4e42-46af-bdda-e01b3c5197da.png)
 
 
 ![Captura de tela de 2021-07-21 14-51-12](https://user-images.githubusercontent.com/61557867/126536153-5ebd5795-fc67-419b-bf88-779673dd8332.png)
