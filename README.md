@@ -21,8 +21,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## JSON Server
 
-Run comand: json-server --watch db.json to initialize de json-server
+Run comand: json-server --watch db.json to initialize the json-server
 
-
+##
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
