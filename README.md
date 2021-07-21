@@ -1,8 +1,8 @@
 # AngularTeste
 
 
-![Captura de tela de 2021-07-21 14-46-09](https://user-images.githubusercontent.com/61557867/126535902-56e05942-1c17-4444-92d0-735d63e35a07.png)
 
+![Captura de tela de 2021-07-21 14-46-09](https://user-images.githubusercontent.com/61557867/126537747-fc18e243-ddb7-4e43-a627-6b9565837655.png)
 
 ![Captura de tela de 2021-07-21 14-46-25](https://user-images.githubusercontent.com/61557867/126535982-58d8c14a-0818-416d-a721-8e85648a9ab9.png)
 
